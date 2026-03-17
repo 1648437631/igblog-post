@@ -5,6 +5,7 @@ coverImage: 'quant-data-sources-acquisition.webp'
 keywords: '量化数据, 数据来源, API, 市场数据, 基本面数据, 替代数据'
 publishDate: '2024-03-12'
 tags: ['量化交易', '数据科学', 'API教程']
+featured: true
 ---
 
 ## 量化交易中的数据类型

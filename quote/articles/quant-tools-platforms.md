@@ -5,6 +5,7 @@ coverImage: 'quant-tools-platforms.webp'
 keywords: '量化工具, 回测框架, 交易平台, Python量化, 数据分析, 常用软件'
 publishDate: '2025-05-30'
 tags: ['量化交易', '工具推荐', '平台对比', '金融科技']
+featured: true
 ---
 
 ## 引言
