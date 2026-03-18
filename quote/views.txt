@@ -1,6 +1,6 @@
-# generatedAt=2026-03-18T21:18:53.962Z
+# generatedAt=2026-03-18T22:32:02.434Z
 quant-advanced-backtesting	25
-quant-backtesting-evaluation	59
+quant-backtesting-evaluation	60
 quant-career-path	83
 quant-data-cleaning-processing	73
 quant-data-sources-acquisition	51
@@ -14,8 +14,8 @@ quant-multi-factor-model	51
 quant-regulation-impact	41
 quant-resources-sharing	22
 quant-risk-management-fundamentals	68
-quant-strategy-development-lifecycle	78
+quant-strategy-development-lifecycle	79
 quant-strategy-optimization-techniques	68
 quant-tools-platforms	57
-quant-trading-system-architecture	70
+quant-trading-system-architecture	71
 quant-traditional-collaboration	46
