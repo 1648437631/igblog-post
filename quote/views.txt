@@ -1,4 +1,4 @@
-# generatedAt=2026-07-24T08:01:53.792Z
+# generatedAt=2026-07-29T13:11:54.070Z
 itick-ai-quant-all-asset-market-data-api-guide	74
 itick-ai-quant-all-asset-stocks-crypto-api	88
 itick-ai-quant-all-asset-us-stocks-hk-stocks-futures	64
@@ -34,7 +34,7 @@ quant-ai-trading-signal-to-execution-guide	51
 quant-backtesting-evaluation	64
 quant-career-path	83
 quant-data-cleaning-processing	73
-quant-data-sources-acquisition	55
+quant-data-sources-acquisition	56
 quant-foundations-concepts	27
 quant-future-trends	58
 quant-hft-intro	22
