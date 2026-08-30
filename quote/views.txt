@@ -1,10 +1,10 @@
-# generatedAt=2026-08-29T17:45:50.940Z
+# generatedAt=2026-08-30T05:57:49.522Z
 itick-ai-quant-all-asset-market-data-api-guide	77
 itick-ai-quant-all-asset-stocks-crypto-api	89
 itick-ai-quant-all-asset-us-stocks-hk-stocks-futures	64
 itick-ai-quant-api-automated-trading-strategy-development	55
 itick-ai-quant-api-backtesting-strategy-end-to-end	30
-itick-ai-quant-api-integration-retail	77
+itick-ai-quant-api-integration-retail	78
 itick-ai-quant-api-machine-learning-signals-end-to-end	33
 itick-ai-quant-api-retail	30
 itick-ai-quant-cross-market-global-api-strategy	50
