@@ -1,4 +1,4 @@
-# generatedAt=2026-09-04T17:12:29.530Z
+# generatedAt=2026-09-05T03:33:28.950Z
 itick-ai-quant-all-asset-market-data-api-guide	77
 itick-ai-quant-all-asset-stocks-crypto-api	90
 itick-ai-quant-all-asset-us-stocks-hk-stocks-futures	65
@@ -12,7 +12,7 @@ itick-ai-quant-crypto-api	60
 itick-ai-quant-futures-forex-crypto-api	46
 itick-ai-quant-global-market-data-realtime-stocks	66
 itick-ai-quant-global-stocks-us-stocks-hk-stocks	37
-itick-ai-quant-historical-stocks-api-adjusted	41
+itick-ai-quant-historical-stocks-api-adjusted	42
 itick-ai-quant-historical-stocks-api-tutorial	41
 itick-ai-quant-live-trading-tools-free-api	78
 itick-ai-quant-lowest-cost-retail-api	59
