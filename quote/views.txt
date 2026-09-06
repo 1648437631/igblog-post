@@ -1,4 +1,4 @@
-# generatedAt=2026-09-06T04:34:47.449Z
+# generatedAt=2026-09-06T08:24:24.174Z
 itick-ai-quant-all-asset-market-data-api-guide	77
 itick-ai-quant-all-asset-stocks-crypto-api	90
 itick-ai-quant-all-asset-us-stocks-hk-stocks-futures	65
@@ -43,7 +43,7 @@ quant-machine-learning-apps	64
 quant-market-anomaly-adjustment	45
 quant-multi-factor-model	51
 quant-regulation-impact	45
-quant-resources-sharing	22
+quant-resources-sharing	23
 quant-risk-management-fundamentals	68
 quant-strategy-development-lifecycle	88
 quant-strategy-optimization-techniques	69
