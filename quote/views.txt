@@ -1,5 +1,5 @@
-# generatedAt=2026-09-21T21:52:39.953Z
-itick-ai-quant-all-asset-market-data-api-guide	79
+# generatedAt=2026-10-08T00:11:47.885Z
+itick-ai-quant-all-asset-market-data-api-guide	80
 itick-ai-quant-all-asset-stocks-crypto-api	90
 itick-ai-quant-all-asset-us-stocks-hk-stocks-futures	66
 itick-ai-quant-api-automated-trading-strategy-development	57
