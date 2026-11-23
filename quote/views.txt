@@ -1,4 +1,4 @@
-# generatedAt=2026-11-22T20:27:38.667Z
+# generatedAt=2026-11-23T12:27:29.470Z
 itick-ai-quant-all-asset-market-data-api-guide	91
 itick-ai-quant-all-asset-stocks-crypto-api	94
 itick-ai-quant-all-asset-us-stocks-hk-stocks-futures	73
@@ -48,5 +48,5 @@ quant-risk-management-fundamentals	72
 quant-strategy-development-lifecycle	91
 quant-strategy-optimization-techniques	72
 quant-tools-platforms	77
-quant-trading-system-architecture	80
+quant-trading-system-architecture	81
 quant-traditional-collaboration	51
